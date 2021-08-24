@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLTnYRTOxLlSLc2dnGZOF3Dt/Djf7i8hivxlXh8IqyRGoKNuRu0fJQSpXm5pClPI8lISJ1nfyGhrz9cBZNSDfA==",
+  "success": true,
+  "projectFilePath": "G:\\.Net\\Personal Project\\Bus\\Validation\\Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakib\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rakib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

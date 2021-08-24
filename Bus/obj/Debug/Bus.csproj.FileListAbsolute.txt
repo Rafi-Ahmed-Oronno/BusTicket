@@ -1,0 +1,9 @@
+C:\Users\rafia\source\repos\Bus\bin\Debug\Bus.exe.config
+C:\Users\rafia\source\repos\Bus\bin\Debug\Bus.exe
+C:\Users\rafia\source\repos\Bus\bin\Debug\Bus.pdb
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.csprojAssemblyReference.cache
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.Properties.Resources.resources
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.csproj.GenerateResource.cache
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.exe
+C:\Users\rafia\source\repos\Bus\obj\Debug\Bus.pdb
